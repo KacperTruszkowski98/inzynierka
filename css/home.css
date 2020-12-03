@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+}
+#bodyhomeeeeeee{
+    background-image: url('images/dubai.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#p01{
+    display:flex;
+    justify-content: flex-end;
+}
+#divhome {
+    padding: 10px;
+    width:auto ;
+    margin-right:20%;
+    margin-left: 20%;
+    height: auto;
+    text-align: justify;
+    position: absolute;
+    line-height: 1.8;
+    font-size: 150%;
+    display: flex;
+}
+p{
+
+}
